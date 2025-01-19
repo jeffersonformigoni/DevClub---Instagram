@@ -71,3 +71,12 @@ button {
     cursor: pointer;
 }
 
+.naotem-conta {
+    display: flex;
+    flex-direction: column;
+    color: #385185;
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+}
+
